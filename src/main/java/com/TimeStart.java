@@ -81,8 +81,9 @@ public class TimeStart {
     public static  void  main(String ...args) {
 
 
-        new TimeStart().f();
 
+        new TimeStart().f();
+        System.out.println("第二次提交");
 
 
     }
